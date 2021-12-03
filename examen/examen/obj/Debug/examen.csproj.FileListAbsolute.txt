@@ -1,0 +1,10 @@
+D:\Ariel\Base de datos I\Practica examen\examen\examen\bin\Debug\examen.exe.config
+D:\Ariel\Base de datos I\Practica examen\examen\examen\bin\Debug\examen.exe
+D:\Ariel\Base de datos I\Practica examen\examen\examen\bin\Debug\examen.pdb
+D:\Ariel\Base de datos I\Practica examen\examen\examen\obj\Debug\examen.csprojAssemblyReference.cache
+D:\Ariel\Base de datos I\Practica examen\examen\examen\obj\Debug\examen.Form1.resources
+D:\Ariel\Base de datos I\Practica examen\examen\examen\obj\Debug\examen.Properties.Resources.resources
+D:\Ariel\Base de datos I\Practica examen\examen\examen\obj\Debug\examen.csproj.GenerateResource.cache
+D:\Ariel\Base de datos I\Practica examen\examen\examen\obj\Debug\examen.csproj.CoreCompileInputs.cache
+D:\Ariel\Base de datos I\Practica examen\examen\examen\obj\Debug\examen.exe
+D:\Ariel\Base de datos I\Practica examen\examen\examen\obj\Debug\examen.pdb
